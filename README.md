@@ -5,7 +5,7 @@ This repo particularly contains my submission for an Vistual Internship offered 
 
 ![image](images/website.png)
 
-## About the Website 
+## What's this about ?
 **COVID 19**. A Virus that needs no introduction. It's nothing new that this pandemic is one of difficult challenges the mankind as ever faced. 
 Due to this people's **lives** and **wealth** are at stake. So, this is my attempt to support the fight against **COVID-19**. 
 
