@@ -1,0 +1,23 @@
+body {
+  background-image: url(../images/donationpage.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.difference {
+  color: #f7a440;
+}
+
+h1 {
+  color: black;
+  margin: 5% 70% 0 2%;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-family: 'Poppins', sans-serif;
+  text-align: left;
+}
+
+.payment {
+  margin-top: 2%;
+  margin-left: 2%;
+}
