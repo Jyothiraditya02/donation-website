@@ -21,4 +21,4 @@ After you enter all the credentials and process the payment, you will recieve an
 
 ## Questions ?
 
-Post your queries on the [**Discussions**](https://github.com/gauravreddy08/food-vision/discussions) tab, else contact me : `pokala2002@gmail.com`
+Post your queries on the [**Discussions**](https://github.com/AdityaNaidu2k2/donation-website/discussions) tab, else contact me : `pokala2002@gmail.com`
