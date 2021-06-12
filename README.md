@@ -3,6 +3,7 @@ This repo particularly contains my submission for an Vistual Internship offered 
 
 > To view the deployed website, **[Click Here](https://covid-donation-sparks.herokuapp.com)**.
 
+![image](images/website.png)
 
 ## About the Website 
 **COVID 19**. A Virus that needs no introduction. It's nothing new that this pandemic is one of difficult challenges the mankind as ever faced. 
