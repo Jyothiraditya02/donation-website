@@ -15,7 +15,7 @@ The payment gateway accepts all payment types like `Credit Card`, `UPI`, `Instan
 
 After you enter all the credentials and process the payment, you will recieve an Automated Confirmation E-mail to the e-mail ID provided before.
 
-> Right now, this is just a prototype website (`test mode`). Which means that it will not deduct any money as of now. 
+> Right now, this is just a prototype website. Which means that it will not deduct any money as of now. 
 
 > By just turning off the **RazorPay's Test Mode**, the website will turn into a full fledged functioning website that will actively accept the donations.
 
