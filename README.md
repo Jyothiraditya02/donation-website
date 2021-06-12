@@ -3,7 +3,7 @@ This repo particularly contains my submission for an Vistual Internship offered 
 
 > To view the deployed website, **[Click Here](https://covid-donation-sparks.herokuapp.com)**.
 
-
+![Screenshot 2021-05-29 at 6.01.44 PM](./images/webiste.png)
 
 ## About the Website 
 **COVID 19**. A Virus that needs no introduction. It's nothing new that this pandemic is one of difficult challenges the mankind as ever faced. 
@@ -18,3 +18,7 @@ After you enter all the credentials and process the payment, you will recieve an
 > Right now, this is just a prototype website (`test mode`). Which means that it will not deduct any money as of now. 
 
 > By just turning off the **RazorPay's Test Mode**, the website will turn into a full fledged functioning website that will actively accept the donations.
+
+## Questions ?
+
+Post your queries on the [**Discussions**](https://github.com/gauravreddy08/food-vision/discussions) tab, else contact me : `pokala2002@gmail.com`
