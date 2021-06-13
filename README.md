@@ -17,7 +17,7 @@ After you enter all the credentials and process the payment, you will recieve an
 
 > Right now, this is just a prototype website. Which means that it will not deduct any money as of now. 
 
-> By just turning off the **RazorPay's Test Mode**, the website will turn into a full fledged functioning website that will actively accept the donations.
+> By just turning on the **RazorPay's Live Mode**, the website will turn into a full fledged functioning website that will actively accept the donations.
 
 ## Questions ?
 
